@@ -1,0 +1,36 @@
+.container {
+    width: 350px;
+    margin-bottom: 10px;
+    min-height: 500px;
+}
+
+#timers {
+    background: #efefef;
+    padding: 0 15px 25px 10px;
+}
+
+.header {
+    border-bottom: 1px solid;
+    overflow: hidden;
+}
+
+.header h5 {
+    margin-bottom: 5px;
+}
+
+.header .toggle {
+    line-height: 2.2em;
+    padding-left: 10px;
+}
+
+.card {
+    display: block;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+.pull-right {
+    float: right !important;
+}
